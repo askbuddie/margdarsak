@@ -12,7 +12,7 @@
 - [flutter layout](https://docs.flutter.dev/development/ui/layout)
 - [flutter images](https://docs.flutter.dev/development/ui/assets-and-images)
 - [flutter animations](https://docs.flutter.dev/development/ui/animations)
-- [flutter state management](https://docs.flutter.dev/development/data-and-backend/state-mgmt)
+- [flutter tutorial for beginners - The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
 3. Local Storage: ```SQLite, Shared preference, Hive, Objectbox, etc``` are the packages for local storage. You can use according to your app requirements.
 - [get all packages that I listed above - flutter official](https://pub.dev/)
