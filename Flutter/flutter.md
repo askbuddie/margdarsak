@@ -1,11 +1,42 @@
 ## Flutter Roadmap
 
 1. Learn Dart
-2. Flutter Widgets: Scaffold, AppBar, ElevatedButton, Icon, Image, Container, Text, Row, Column, Divider, SizedBox, Expanded, ListView, GridView, LayoutBuilder, StreamBuilder, etc
-3. Building UI
-4. Local Storage: SQLite, Shared preference, Hive, Objectbox, etc
-5. Networking, APIs
-6. Use popular package: url_launcher, http, intl, image_picker, cached_network_image, geolocator, font_awesome_flutter, share_plus, etc
-7. State Management: BLoC, Riverpod, Provider, MobX, etc
-8. Learn Backend-as-a-Service(Baas): Firebase, Appwrite, Supabase
-9. Alternative of Baas, Learn Custom Backend: Nodejs, Python, Go, Ruby, etc  
+- [dart samples](https://dart.dev/samples)
+- [tour of the Dart language](https://dart.dev/guides/language/language-tour)
+- [dart Null safety](https://dart.dev/codelabs/null-safety)
+
+2. Flutter
+- [flutter widget](https://docs.flutter.dev/development/ui/widgets)
+- [flutter advanced UI](https://docs.flutter.dev/development/ui/advanced)
+- [flutter Navigation and routing](https://docs.flutter.dev/development/ui/navigation)
+- [flutter layout](https://docs.flutter.dev/development/ui/layout)
+- [flutter images](https://docs.flutter.dev/development/ui/assets-and-images)
+- [flutter animations](https://docs.flutter.dev/development/ui/animations)
+- [flutter state management](https://docs.flutter.dev/development/data-and-backend/state-mgmt)
+
+3. Local Storage: ```SQLite, Shared preference, Hive, Objectbox, etc``` are the packages for local storage. You can use according to your app requirements.
+- [get all packages that I listed above - flutter official](https://pub.dev/)
+
+4. Networking, APIs
+- [flutter networking](https://docs.flutter.dev/development/data-and-backend/networking)
+- [flutter JSON and serialization](https://docs.flutter.dev/development/data-and-backend/json)
+- [flutter fetch api data](https://docs.flutter.dev/cookbook/networking/fetch-data)
+- [flutter send data to the internet](https://docs.flutter.dev/cookbook/networking/send-data)
+- [flutter update data over the internet](https://docs.flutter.dev/cookbook/networking/update-data)
+- [flutter delete data on the internet](https://docs.flutter.dev/cookbook/networking/delete-data)
+
+5. Use popular package: ```url_launcher, http, intl, image_picker, cached_network_image, geolocator, font_awesome_flutter, share_plus, etc```
+- [get all packages that I listed above - flutter official](https://pub.dev/)
+
+6. State Management: ```BLoC, Riverpod, Provider, MobX, etc``` are the state management used in flutter.
+- [get all packages that I listed above - flutter official](https://pub.dev/)
+- [Flutter State management](https://docs.flutter.dev/development/data-and-backend/state-mgmt)
+- [7 things you need to know about Flutter State Management](https://medium.com/dhiwise/7-things-you-need-to-know-about-flutter-state-management-42f840ef022e)
+- [List of state management approaches in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options)
+
+7. Learn Backend-as-a-Service(Baas): ```Firebase, Appwrite, Supabase```
+- [Flutter Firebase](https://firebase.flutter.dev/docs/overview)
+- [Flutter Appwrite](https://appwrite.io/docs/getting-started-for-flutter)
+- [Flutter Supabase](https://supabase.com/docs/guides/with-flutter)
+
+8. Alternative of Baas, Learn Custom Backend: ```Nodejs with any db, Python with any db, Go with any db, Ruby with any db, etc```
