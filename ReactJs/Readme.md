@@ -84,15 +84,4 @@ flowchart LR
     D ---> DJ(Charts)
     DJ --> DJA(Recharts)
     DJ --> DJC(React Chart JS)
-    
-
-
-
-
-    
-
-
-    
-
-
 ```
