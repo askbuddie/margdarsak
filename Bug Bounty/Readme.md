@@ -14,7 +14,9 @@ Before doing any stuff , you first need to be good at reconnaissance.Reconnaisan
 
 #### Tools for recon and subdomain enumeration
 
-1.[Amass](https://github.com/OWASP/Amass) 2.[ReEngine](https://github.com/yogeshojha/rengine) 3.[SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer)
+1.[Amass](https://github.com/OWASP/Amass) 
+2.[ReEngine](https://github.com/yogeshojha/rengine) 
+3.[SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer)
 
 ## Step 2(Directory/File/Endpoints discovery)
 
@@ -22,7 +24,11 @@ After finding the subdomain of the program you are targeting . You need to look 
 
 #### Tools for File/Endpoint discovery
 
-1.[GoBuster](https://github.com/OJ/gobuster) 2.[KiteRunner](https://github.com/assetnote/kiterunner) 3.[DirSearch](https://github.com/maurosoria/dirsearch) 4.[OWASP ZAP(GUI)](https://owasp.org/www-project-zap/) 5.[Recon(directory,port scanning)](https://github.com/maheshbasnet089/recon)
+1.[GoBuster](https://github.com/OJ/gobuster) 
+2.[KiteRunner](https://github.com/assetnote/kiterunner) 
+3.[DirSearch](https://github.com/maurosoria/dirsearch) 
+4.[OWASP ZAP(GUI)](https://owasp.org/www-project-zap/) 
+5.[Recon(directory,port scanning)](https://github.com/maheshbasnet089/recon)
 
 ## Step 3 (Vulnerabilty Test)
 
@@ -39,7 +45,7 @@ If you are tired to doing vulnerabilty assessment and looking out for vulnerabil
 #### Tools for fuzzing
 
 1.[Wfuzz](https://github.com/xmendez/wfuzz)
-2.Ffuzz
+2.[Ffuf](https://github.com/ffuf/ffuf)
 
 ## Step 4 (Report Writing)
 
