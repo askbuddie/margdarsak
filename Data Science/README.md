@@ -65,3 +65,18 @@ flowchart LR
     B ----> BR(Big Data)
     B ----> BS(Hadoop)
 ```
+
+## Resources 
+- [Python](https://www.geeksforgeeks.org/python-programming-language/)
+
+- [Numpy](https://numpy.org/doc/)
+- [Pandas](https://www.geeksforgeeks.org/pandas-tutorial/)
+- [Matplotlib](https://www.geeksforgeeks.org/matplotlib-tutorial/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Sklearn](https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/)
+- [Tensorflow](https://www.tensorflow.org/tutorials)
+- [Machine-Learning](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA__branded_FTCOF__arte&utm_content=B2C&campaignid=18216928764&adgroupid=141296025792&device=c&keyword=coursera%20machine%20learning%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=619458216884&hide_mobile_promo)
+- [Deep-Learning](https://www.coursera.org/specializations/deep-learning)
+- [SQL](https://www.w3schools.com/sql/)
+- [MongoDB](https://www.geeksforgeeks.org/mongodb-tutorial/)
+- [Flask](https://flask.palletsprojects.com/en/2.2.x/)
