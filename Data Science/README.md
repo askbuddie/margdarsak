@@ -13,7 +13,7 @@ Information: The meaningful insights that come from data after proper analysis o
 
 ```mermaid
 flowchart LR
-    A((Data)) --> B(5 V’s)
+    A((Data)) --> B(Vs)
     B --> BA(Volume)
     B ---> BB(Velocity)
     B ----> BC(Veracity)
