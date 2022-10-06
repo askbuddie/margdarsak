@@ -20,3 +20,21 @@ flowchart LR
     B ---> BD(Value)
     B ----> BE(Variety)
 ```
+
+## RoadMap | Data Scientist
+
+- Data Scientist are those skilled person who solves real world problem using the data. These are the genius who collect the data, analyze the data, manipulate the data, visualize the data and extracts useful information from the data. These are the skills the data scientist must have.
+
+
+```mermaid
+flowchart LR
+    A((Data Scientist)) --> B(Skills)
+    B --> BA(Statistics)
+    B ---> BB(Python)
+    B ----> BC(R)
+    B ---> BD(Data Cleaning)
+    B ----> BE(Preprocessing)
+    B ----> BF(Visualization)
+    B ----> BG(SQL)
+    B ----> BH(Machine Learning)
+```
