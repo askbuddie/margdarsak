@@ -38,3 +38,30 @@ flowchart LR
     B ----> BG(SQL)
     B ----> BH(Machine Learning)
 ```
+
+### Data Science Beginners roadmap
+
+
+```mermaid
+flowchart LR
+    A((Data Science)) --> B(Skills)
+    B --> BA(Linear Algebra)
+    B ---> BB(Basic Mathematics)
+    B ----> BC(Probability )
+    B ---> BD(Data Cleaning)
+    B ----> BE(Preprocessing)
+    B ----> BF(Visualization)
+    B ----> BG(Machine Learning)
+    B ----> BH(SQL)
+    B ----> BI(MongoDB)
+    B ----> BJ(Numpy)
+    B ----> BK(Pandas)
+    B ----> BL(Matplotlib)
+    B ----> BM(Sklearn)
+    B ----> BN(Tensorflow)
+    B ----> BO(Bs4)
+    B ----> BP(PowerBI)
+    B ----> BQ(Tablaeu)
+    B ----> BR(Big Data)
+    B ----> BS(Hadoop)
+```
