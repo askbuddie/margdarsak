@@ -12,8 +12,8 @@ Hours of videos are being uploaded in YouTube every second, thousands of Faceboo
 Information: The meaningful insights that come from data after proper analysis of it is information.
 
 ```mermaid
-     flowchart LR
-     A(((Data))) --> B((5 V’s))
+flowchart LR
+    A((Data)) --> B(5 V’s)
     B --> BA(Volume)
     B ---> BB(Velocity)
     B ----> BC(Veracity)
