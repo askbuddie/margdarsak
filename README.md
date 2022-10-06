@@ -4,7 +4,7 @@ Community curated roadmaps and cheatsheets for various domains.
 ## Table of Contents
 
 - [Javascript](/Javascript/Readme.md)
-- [Reactjs](/Reactjs/Readme.md)
+- [ReactJs](/Reactjs/Readme.md)
 - [Backend Web Development](/Backend%20Web%20Development/Readme.md)
 - [Cyber Security](/Cyber%20Security/Readme.md)
 - [Flutter](/Flutter/Readme.md)
