@@ -14,9 +14,9 @@ Before doing any stuff , you first need to be good at reconnaissance.Reconnaisan
 
 #### Tools for recon and subdomain enumeration
 
-1.[Amass](https://github.com/OWASP/Amass) 
-2.[ReEngine](https://github.com/yogeshojha/rengine) 
-3.[SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer)
+- [Amass](https://github.com/OWASP/Amass) 
+- [ReEngine](https://github.com/yogeshojha/rengine) 
+- [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer)
 
 ## Step 2(Directory/File/Endpoints discovery)
 
@@ -24,11 +24,11 @@ After finding the subdomain of the program you are targeting . You need to look 
 
 #### Tools for File/Endpoint discovery
 
-1.[GoBuster](https://github.com/OJ/gobuster) 
-2.[KiteRunner](https://github.com/assetnote/kiterunner) 
-3.[DirSearch](https://github.com/maurosoria/dirsearch) 
-4.[OWASP ZAP(GUI)](https://owasp.org/www-project-zap/) 
-5.[Recon(directory,port scanning)](https://github.com/maheshbasnet089/recon)
+- [GoBuster](https://github.com/OJ/gobuster) 
+- [KiteRunner](https://github.com/assetnote/kiterunner) 
+- [DirSearch](https://github.com/maurosoria/dirsearch) 
+- [OWASP ZAP(GUI)](https://owasp.org/www-project-zap/) 
+- [Recon(directory,port scanning)](https://github.com/maheshbasnet089/recon)
 
 ## Step 3 (Vulnerabilty Test)
 
@@ -36,7 +36,9 @@ All the endpoints and file you gathered after performing step 2 should be tested
 
 #### How to perform vulnerabilty test
 
-Try to look for form field, if the site doesnot handle input properly, you can use it to your advantage by performing attack like [XSS(cross site scripting)](https://medium.com/@maheshbasnet/cross-site-scripting-or-xss-13f49fed6cc5) .If the website is fetching some sort of data like image from outsource , you can try for SSRF(server site request forgery).If there is the userId or profileId in the URL you can lookout for IDOR vulnerabilty. Similary if there is redirect,nextTo,open,next params in the Url, lookout for open redirect vulnerabilty. If you don't see any csrf token in the request header , you can try to lookout for CSRF(cross site request forgery).If the site is accepting xml filetype upload like pdf,docx,pptx you can lookout for XXE vulnerabilty.Other vulnerabilty like SQL injection can be also lookout for if the site uses SQL databases in contrast if it uses mongodb database lookout for [mongo injection](https://medium.com/@maheshbasnet/mongo-injection-sql-injection-a8b76cd8b193). Beside these other vulnerabilty like race around condition (especially in transaction doing website) and Insecure deserialization can be looked out.
+Try to look for form field, if the site doesnot handle input properly, you can use it to your advantage by performing attack like [XSS(cross site scripting)](https://medium.com/@maheshbasnet/cross-site-scripting-or-xss-13f49fed6cc5) .If the website is fetching some sort of data like image from outsource , you can try for SSRF(server site request forgery).If there is the userId or profileId in the URL you can lookout for IDOR vulnerabilty. 
+
+Similary if there is redirect,nextTo,open,next params in the Url, lookout for open redirect vulnerabilty. If you don't see any csrf token in the request header , you can try to lookout for CSRF(cross site request forgery).If the site is accepting xml filetype upload like pdf,docx,pptx you can lookout for XXE vulnerabilty.Other vulnerabilty like SQL injection can be also lookout for if the site uses SQL databases in contrast if it uses mongodb database lookout for [mongo injection](https://medium.com/@maheshbasnet/mongo-injection-sql-injection-a8b76cd8b193). Beside these other vulnerabilty like race around condition (especially in transaction doing website) and Insecure deserialization can be looked out.
 
 ## Step 4 (Fuzzing)
 
@@ -44,8 +46,8 @@ If you are tired to doing vulnerabilty assessment and looking out for vulnerabil
 
 #### Tools for fuzzing
 
-1.[Wfuzz](https://github.com/xmendez/wfuzz)
-2.[Ffuf](https://github.com/ffuf/ffuf)
+- [Wfuzz](https://github.com/xmendez/wfuzz)
+- [Ffuf](https://github.com/ffuf/ffuf)
 
 ## Step 4 (Report Writing)
 
@@ -55,10 +57,10 @@ If you found any vulnerabilty by performing step 3 . You need to report those vu
 
 Google is the first thing to think about while thinking about resource . It contains everything , every problem solutions you are looking out for . If you get stuff on any topic you should simply force yourself to google it.Beside google there are some popular books which I highly recommend you to read because i had actually tasted those books myself and recommending you.
 
-1.Bug Bounty BootCamp by vickie lie (Theory More)
-2.The Real World Bug Hunting by peter yoworski (Practical More)
-3.The web Hacking(bible of website hacking)
-4.Hacking Apis (will be a plus point)
+- Bug Bounty BootCamp by vickie lie (Theory More)
+- The Real World Bug Hunting by peter yoworski (Practical More)
+- The web Hacking(bible of website hacking)
+- Hacking Apis (will be a plus point)
 
 #### Repositories to chekout for
 
