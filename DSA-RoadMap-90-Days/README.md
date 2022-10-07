@@ -18,7 +18,7 @@ flowchart LR
     DA ---> DAC(Stack & Queue)
     
     A ---> E(Important Suggestion)
-    E ---> EA(Start Giving contests.  You might not be able to solve problems in starting weeks but it's OK . Just keep learniing)
+    E ---> EA(Start taking contests.  You might not be able to solve problems in starting weeks but it's OK . Just keep learniing)
     
     
     A ---> F(Day 31 & 45)
