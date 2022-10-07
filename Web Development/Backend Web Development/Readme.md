@@ -1,4 +1,22 @@
 # Backend Roadmap
+## Skill Beforehand
+## 👉Internet
+    - How Internet Works?
+    - What is HTTP?
+    - What is DNS?
+    - Browsers and Its Workings.
+## 👉Frontend Basics
+    - HTML\CSS
+    - Javascript Basics
+    - CSS in JS(Personal Recommendation 🤓)
+    - CSS Frameworks(Tailwind,Bootstraps,etc)
+## 👉OS and Version Control
+    - How OS works?
+    - Process Management
+    - What is Version Control?
+    - Git and Its Uses.
+
+## Roadmap
 
 ```mermaid
 flowchart LR
