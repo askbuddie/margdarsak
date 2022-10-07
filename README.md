@@ -3,15 +3,20 @@ Community curated roadmaps and cheatsheets for various domains.
 
 ## Table of Contents
 
-- [Javascript](/Javascript/Readme.md)
-- [ReactJs](/Reactjs/Readme.md)
+- [Javascript](/Web%20Development/Javascript/Readme.md)
+- [ReactJs](/Web%20Development/Frontend%20Web%20Development/ReactJs/Readme.md)
 - [Backend Web Development](/Backend%20Web%20Development/Readme.md)
 - [Cyber Security](/Cyber%20Security/Readme.md)
-- [Flutter](/Flutter/Readme.md)
+- [Flutter](/App%20Development/Flutter/Readme.md)
 - [Machine Learning](/Machine%20Learning/Readme.md)
-- [Frontend Web Development](/Frontend%20Web%20Development/Readme.md)
-- [MERNSTACK](/MERNSTACK/Readme.md)
+- [Frontend Web Development](/Web%20Development/Frontend%20Web%20Development/)
+- [MERNSTACK](/Web%20Development/Tech%20Stacks/MERNSTACK/Readme.md)
 - [Data Science](/Data%20Science/README.md)
+- [QA](/QA/README.md)
+- [Cyber Security](/Cyber%20Security/Readme.md)
+- [Bug Bounty](/Bug%20Bounty/Readme.md)
+- [IOT](/IOT/Readme.md)
+
     
 ## Contributing
 
