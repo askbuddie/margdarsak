@@ -1,5 +1,18 @@
-# Roadmap
-Community curated roadmaps and cheatsheets for various domains.
+<h1 align="center">
+    Roadmap
+</h1>
+
+<p align="center">
+  <a href="https://github.com/askbuddie/roadmap/stargazers" target="_blank">
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/askbuddie/roadmap?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/askbuddie/roadmap/network/members" target="_blank">
+  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/askbuddie/roadmap?style=for-the-badge" />
+  </a>
+  <br/>
+  
+<p align="center"><b>Community curated roadmaps and cheatsheets for various domains.</b></p>
+</p>
 
 ## Table of Contents
 
@@ -18,7 +31,6 @@ Community curated roadmaps and cheatsheets for various domains.
 - [IOT](/IOT/Readme.md)
 - [DSA Roadmap in 90 days](/DSA-RoadMap-90-Days/README.md)
 
-    
 ## Contributing
 
 1. Fork this repository
@@ -26,16 +38,12 @@ Community curated roadmaps and cheatsheets for various domains.
 3. Create a pull request
 4. Wait for review
 
-
 ## Contributors
 
 <a href="https://github.com/askbuddie/roadmap/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=askbuddie/roadmap" />
 </a>
 
-
-
 ## License
 
 [MIT](/LICENSE)
-
