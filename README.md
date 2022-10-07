@@ -26,10 +26,10 @@
 - [MERNSTACK](/Web%20Development/Tech%20Stacks/MERNSTACK/Readme.md)
 - [Data Science](/Data%20Science/README.md)
 - [QA](/QA/README.md)
-- [Cyber Security](/Cyber%20Security/Readme.md)
 - [Bug Bounty](/Bug%20Bounty/Readme.md)
 - [IOT](/IOT/Readme.md)
 - [DSA Roadmap in 90 days](/DSA-RoadMap-90-Days/README.md)
+
 
 ## Contributing
 
