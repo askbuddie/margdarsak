@@ -75,6 +75,23 @@ https://github.com/hakluke
 https://github.com/tomnomnom
 https://github.com/jhaddix
 
+
+#### Labs to Pratice
+[picoctf](https://picoctf.org/)
+[tryhackme](https://tryhackme.com)
+[hackthebox](https://www.hackthebox.com/)
+[wargames](https://overthewire.org/wargames/)
+[PWNfunctionXss](https://xss.pwnfunction.com/)
+[portswiggerLabs](https://portswigger.net/web-security/learning-path)
+[OWASPJuiceShop](https://github.com/juice-shop/juice-shop)
+
+
+#### Articles to Refer
+[hacktricks](https://book.hacktricks.xyz/)
+[pentesterland](https://pentester.land/)
+[BugBountyWriteUps](https://pentester.land/list-of-bug-bounty-writeups.html)
+[Medium](https://medium.com/tag/bug-bounty/latest)
+
 ## Notes
 
 I clearly want to state that , not everyone follows the same steps like above. Everyone have got different taste. It isn't have to have follow sort of things.According to the condition and circumstances you can create your own methodology which will favor you.
