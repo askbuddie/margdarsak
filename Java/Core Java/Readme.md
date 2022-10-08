@@ -92,3 +92,5 @@ Below are the several topics to cover in Java:
   - Thread Interrupt.
   - Runnable Interface.
   - Synchronization.
+
+Most important factor in learning any language is that you remain consistent and keep practicing. Do seek out websites like leetcode to get questions to solve. Happy Learning.
