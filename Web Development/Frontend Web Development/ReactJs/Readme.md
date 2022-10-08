@@ -55,7 +55,7 @@ flowchart LR
     DB --> DBC(Recoil)
     DC --> DCA(Inline CSS)
     DC --> DCB(Styled Components)
-    DCB --> DCA(Styled Items)
+    DCB --> DCA(Styled System)
     DC --> DCC(CSS/SCSS Modules)
     DC ---> DCD(Ant Design)
     DC --> DCE(Material UI)
