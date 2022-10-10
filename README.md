@@ -31,7 +31,7 @@
 - [DSA Roadmap in 90 days](/DSA-RoadMap-90-Days/README.md)
 - [Java](/Java/)
   - [Core Java](/Java/Core%20Java/Readme.md)
-
+- [SEO](/SEO/README.md)
 
 ## Contributing
 
