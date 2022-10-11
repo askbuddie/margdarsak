@@ -23,6 +23,7 @@
 - [Flutter](/App%20Development/Flutter/Readme.md)
 - [Machine Learning](/Machine%20Learning/Readme.md)
 - [Frontend Web Development](/Web%20Development/Frontend%20Web%20Development/)
+- [Game Development](/Game%20Development/)
 - [MERNSTACK](/Web%20Development/Tech%20Stacks/MERNSTACK/Readme.md)
 - [Data Science](/Data%20Science/README.md)
 - [QA](/QA/README.md)
