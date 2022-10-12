@@ -32,6 +32,7 @@
 - [Java](/Java/)
   - [Core Java](/Java/Core%20Java/Readme.md)
 - [SEO](/SEO/README.md)
+- [Django](/Web%20Development/Backend%20Web%20Development/Django/Readme.md)
 
 ## Contributing
 
