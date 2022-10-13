@@ -66,6 +66,7 @@ Google is the first thing to think about while thinking about resource . It cont
 
 - https://github.com/OWASP/wstg
 - https://github.com/swisskyrepo/PayloadsAllTheThings
+- https://github.com/KathanP19/HowToHunt
 - https://github.com/danielmiessler/SecLists
 - https://github.com/payloadbox/xss-payload-list
 
