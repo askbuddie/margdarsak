@@ -148,4 +148,34 @@ More often than not, today’s graphic designers are showcasing their work via o
 
 Your online portfolio needs to be professional and polished. Additionally, it’s important to make sure that you update your portfolio with current projects because design trends tend to be fleeting – what’s popular today might not be in six months or a year from now. This means that your portfolio will become dated the longer you leave it unattended.
 
+## Graphic Design Resources
+
+When you start working, you need a lot of images or good fonts for preparing your designs. And, yes you also need to go through different website for design inspiration. As it is said that, "Design isnot like making a coffee that can always be made instantly." So whenever in your journey if you are stuck, be calm, think calmly and go through websites for design ideas and go head.
+
+### Resources for Images
+
+- [Unsplash](https://unsplash.com/)
+- [Freepik](https://www.freepik.com/)
+- [Burst](https://burst.shopify.com/)
+- [Pexels](https://www.pexels.com/)
+
+### Resources for Inspiration
+
+- [Dribble](https://dribbble.com/)
+- [Pinterest](https://www.pinterest.com/)
+- [99designs](https://99designs.com/)
+- [Behance](https://www.behance.net/)
+
+### Resources for colour ideas
+
+- [Color Hunt](https://colorhunt.co/)
+- [Coolors](https://coolors.co/)
+- [Adobe Color](https://color.adobe.com/create/color-wheel)
+
+### Places to find fonts
+
+- [Google Fonts](https://fonts.google.com/)
+- [DaFont](https://www.dafont.com/)
+- [1001freefonts](https://www.1001freefonts.com/)
+
 **Happy Learning!**
