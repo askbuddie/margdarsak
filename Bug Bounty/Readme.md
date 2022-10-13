@@ -64,33 +64,40 @@ Google is the first thing to think about while thinking about resource . It cont
 
 ### Repositories to chekout for
 
-<https://github.com/OWASP/wstg>
-<https://github.com/swisskyrepo/PayloadsAllTheThings>
-<https://github.com/danielmiessler/SecLists>
-<https://github.com/payloadbox/xss-payload-list>
+- https://github.com/OWASP/wstg
+- https://github.com/swisskyrepo/PayloadsAllTheThings
+- https://github.com/danielmiessler/SecLists
+- https://github.com/payloadbox/xss-payload-list
 
 #### Person to checkout for
 
-<https://github.com/hakluke>
-<https://github.com/tomnomnom>
-<https://github.com/jhaddix>
+- [Hakluke](https://github.com/hakluke)
+- [Tomnomnom](https://github.com/tomnomnom)
+- [Jason Haddix](https://github.com/jhaddix)
+- [Zseano](https://twitter.com/zseano)
+- [STÖK](https://twitter.com/stokfredrik)
 
 #### Labs to Pratice
 
-[picoctf](https://picoctf.org/)
-[tryhackme](https://tryhackme.com)
-[hackthebox](https://www.hackthebox.com/)
-[wargames](https://overthewire.org/wargames/)
-[PWNfunctionXss](https://xss.pwnfunction.com/)
-[portswiggerLabs](https://portswigger.net/web-security/learning-path)
-[OWASPJuiceShop](https://github.com/juice-shop/juice-shop)
+- [picoctf](https://picoctf.org/)
+- [tryhackme](https://tryhackme.com)
+- [hackthebox](https://www.hackthebox.com/)
+- [wargames](https://overthewire.org/wargames/)
+- [PWNfunctionXss](https://xss.pwnfunction.com/)
+- [portswiggerLabs](https://portswigger.net/web-security/learning-path)
+- [OWASPJuiceShop](https://github.com/juice-shop/juice-shop)
 
 #### Articles to Refer
 
-[hacktricks](https://book.hacktricks.xyz/)
-[pentesterland](https://pentester.land/)
-[BugBountyWriteUps](https://pentester.land/list-of-bug-bounty-writeups.html)
-[Medium](https://medium.com/tag/bug-bounty/latest)
+- [hacktricks](https://book.hacktricks.xyz/)
+- [pentesterland](https://pentester.land/)
+- [BugBountyWriteUps](https://pentester.land/list-of-bug-bounty-writeups.html)
+- [Medium](https://medium.com/tag/bug-bounty/latest)
+
+#### Popular Methodologies
+
+- [Jason Haddix](https://drive.google.com/file/d/1aG_qqRvNW-s5_8vvPk5rJiMSMeNL2uY9/view)
+- [Zseano](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf)
 
 ## Notes
 
