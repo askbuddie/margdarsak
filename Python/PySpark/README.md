@@ -55,22 +55,26 @@ All of this in a single framework using your favorite programming language. You 
 - Python : Learn Python to a good usage level, you wouldn’t need anything too fancy, but you would need to be proficient.
 - SQL : Learn SQL and/or Pandas, and in general how to work with data - joins, merges, concatenation etc.
         PySpark reuses a lot of the syntax of both. For lower level stuff, it’s useful to understand Pandas and for higher level stuff it’s useful to write SQL (you can actually run SQL queries directly on Spark).
-        
+
 ## Tools required
 
-###   Local Machine
+### Local Machine
+
 - Java
 - Python / Anaconda
 - Pyspark
 - Winutils
 - For installtion process [click](https://www.javatpoint.com/pyspark-installation#:~:text=PySpark%20requires%20Java%20version%201.8.0%20or%20the%20above,sure%20PySpark%20can%20work%20with%20these%20two%20components.) here.
 
-###   Real time cluster
+### Real time cluster
+
 - (Paid) For real time cluster you can opt for AWS Databricks, Azure Databricks, or Google cloud
 - (Free) Databricks community cloud
 
 ## Pyspark basics
+
 ### Pyspark modules and initialization
+
 - Spark Session
 - Spark Context
 - SQLContext
@@ -81,6 +85,7 @@ All of this in a single framework using your favorite programming language. You 
 - Accumulator
 
 ### PySpark dataframe basics
+
 - Dataframe creation
 - RDD to dataframe
 - Dataframe to Pandas
@@ -105,18 +110,21 @@ All of this in a single framework using your favorite programming language. You 
 - partitionBy()
 
 ### PySparks SQL basics
+
 - Aggregate functions
 - Windows funtions
 - Date and Timestamp functions
 - Json functions
 
 ### PySpark data sources basics
+
 - Read & Write text file
 - Read & Write CSV file
 - Read & Write Parquet file
 - Read & Write Json file
 
 ### PySpark built-in functions
+
 - when()
 - expr()
 - lit()
@@ -130,8 +138,9 @@ All of this in a single framework using your favorite programming language. You 
 - rank()
 
 ## Project Available on internet that can be used for learning
+
 - Watson Studio project by [IBM](https://developer.ibm.com/tutorials/getting-started-with-pyspark/)
 - PySpark Tutorial for Beginners by [Guru99](https://www.guru99.com/pyspark-tutorial.html)
 - Towards Data Science by [Henok Yemam](https://towardsdatascience.com/a-project-driven-approach-to-learning-pyspark-4533c85f52b3)
 
-# 😎Happy Learning.😁
+**Happy Learning**
