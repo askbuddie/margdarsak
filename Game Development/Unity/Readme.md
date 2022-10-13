@@ -1,12 +1,16 @@
 # Unity Roadmap
-## Skill Beforehand
-## 👉Programming
-    - Basic Understanding of Programming Concepts
-    - Good Understanding of C# and Object Oriented Programming
-## 👉Other
-    - Understanding of Basic Physics(vectors, rigidbodies etc)
-    - Version Control(Not compulsary but highly recommended)
 
+## Skill Beforehand
+
+## Programming
+
+- Basic Understanding of Programming Concepts
+- Good Understanding of C# and Object Oriented Programming
+
+## Other
+
+- Understanding of Basic Physics(vectors, rigidbodies etc)
+- Version Control(Not compulsary but highly recommended)
 
 ## Roadmap
 
@@ -53,18 +57,18 @@ flowchart LR
 
     A ---> H((Animations))
     H ---> HB(Unity Animator Controller)
-    H ---> HA(SpriteSheet Animation)   
+    H --> HA(SpriteSheet Animation)   
     H ---> HC(Create Custom Animations)  
-    H ---> HD(Animation Transitions)    
+    H --> HD(Animation Transitions)    
     H ---> HE(Conditional Animations)    
-    H ---> HF(Animation States)    
+    H --> HF(Animation States)    
 
     
     A ---> I((Deployment))
     I ---> IA(WebGL)
-    I ----> IB(Windows Executible File)
-    I ----> IC(Mobile)
-    I ----> ID(Others)
+    I --> IB(Windows Executible File)
+    I --> IC(Mobile)
+    I ---> ID(Others)
 
 
     A ---> K((DSA, Refactoring, Design Patterns, ))

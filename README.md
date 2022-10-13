@@ -37,8 +37,10 @@
 
 ## Contributing
 
+We welcome contributions of all kinds! Please read our contributing guidelines to get started.
+
 1. Fork this repository
-2. Add your roadmap to the respective folder
+2. Add your roadmap to the respective folder (Please follow [Markdown Syntax](https://www.markdownguide.org/basic-syntax/))
 3. Create a pull request
 4. Wait for review
 
