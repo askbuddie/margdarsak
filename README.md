@@ -40,7 +40,7 @@
 
 ## Contributing
 
-We welcome contributions of all kinds! Please read our contributing guidelines to get started.
+We welcome contributions of all kinds! Please read our contributing guidelines to get started.<br>
 Please, try to include the learning resources in the roadmap for the beginners.
 
 1. Fork this repository
