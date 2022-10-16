@@ -1,8 +1,8 @@
 <h1 align="center">
     Roadmap
-    <p> Welcome, to the Ask Buddie Roadmap repository. Feel free to access and contribute.</p>
+   
 </h1>
-
+ <p> Welcome, to the Ask Buddie Roadmap repository. Feel free to access and contribute.</p>
 
 <p align="center">
   <a href="https://github.com/askbuddie/roadmap/stargazers" target="_blank">
