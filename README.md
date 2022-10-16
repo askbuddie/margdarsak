@@ -1,6 +1,8 @@
 <h1 align="center">
     Roadmap
+    <p> Welcome, to the Ask Buddie Roadmap repository. Feel free to access and contribute.</p>
 </h1>
+
 
 <p align="center">
   <a href="https://github.com/askbuddie/roadmap/stargazers" target="_blank">
@@ -39,6 +41,7 @@
 ## Contributing
 
 We welcome contributions of all kinds! Please read our contributing guidelines to get started.
+Please, try to include the learning resources in the roadmap for the beginners.
 
 1. Fork this repository
 2. Add your roadmap to the respective folder (Please follow [Markdown Syntax](https://www.markdownguide.org/basic-syntax/))
