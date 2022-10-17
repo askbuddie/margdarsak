@@ -1,18 +1,48 @@
 # ReactJs Roadmap
+
 ----------------
+
 ## Requirements
 
 - Basic knowledge of HTML, CSS
-- Basic knowledge of Javascript ES6 methods like
-    - Arrow functions
-    - Destructuring
-    - Spread operator
-    - .map(), .filter(), .reduce(), .forEach() etc
-    - Browser Events
+- Basic knowledge of Javascript, ES6 and above
+  - Arrow functions
+  - Destructuring
+  - Spread operator
+  - .map(), .filter(), .reduce(), .forEach() etc
+  - Browser Events
+- Fundamentals 
+  - Create React App
+  - JSX
+  - Components
+    - Functional Components
+    - Class Components
+  - Props vs State
+  - Conditional Rendering
+  - Component Life Cycle
+  - Lists and Keys
+  - Composition vs Inheritance
+  - Basic Hooks
+    - `useState` and `useEffect`
+- Advanced Topics
+  - More Advance Hooks
+    - useMemo
+    - useReducer
+    - useContext
+    - useCallback
+    - useRef
+  - Custom Hooks
+  - Context
+  - Refs
+  - Render Props
+  - Routing 
+  - SSR, SSG
+  - Redux
 
 **You can learn these from [Javascript Roadmap](/Javascript/Readme.md)**
 
 ----------------
+
 ## Roadmap
 
 ```mermaid
@@ -54,13 +84,13 @@ flowchart LR
     DB --> DBB(React Context / State)
     DB --> DBC(Recoil)
     DC --> DCA(Inline CSS)
-    DC --> DCB(Styled Components)
-    DCB --> DCA(Styled System)
+    DC ---> DCB(Styled Components)
     DC --> DCC(CSS/SCSS Modules)
     DC ---> DCD(Ant Design)
     DC --> DCE(Material UI)
     DC ---> DCF(Chakra UI)
     DC --> DCG(Tailwind CSS)
+    DC --> DCH(Styled System)
     D ---> DD(API Calls)
     DD --> DDA(Axios)
     D ---> DE(SSR)

@@ -1,6 +1,8 @@
 <h1 align="center">
     Roadmap
+   
 </h1>
+ <p align = "center"> Welcome, to the Ask Buddie Roadmap repository. Feel free to access and contribute.</p>
 
 <p align="center">
   <a href="https://github.com/askbuddie/roadmap/stargazers" target="_blank">
@@ -34,11 +36,15 @@
   - [Core Java](/Java/Core%20Java/Readme.md)
 - [SEO](/SEO/README.md)
 - [Django](/Web%20Development/Backend%20Web%20Development/Django/Readme.md)
+- [Bash Scripting](/Bash-Scripting/README.md)
 
 ## Contributing
 
+We welcome contributions of all kinds! Please read our contributing guidelines to get started.<br>
+Please, try to include the learning resources in the roadmap for the beginners.
+
 1. Fork this repository
-2. Add your roadmap to the respective folder
+2. Add your roadmap to the respective folder (Please follow [Markdown Syntax](https://www.markdownguide.org/basic-syntax/))
 3. Create a pull request
 4. Wait for review
 

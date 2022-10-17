@@ -1,4 +1,4 @@
-## Cyber-Security Roadmap
+# Cyber-Security Roadmap
 
 The roadmap is broken into different steps.
 
@@ -10,14 +10,14 @@ The roadmap is broken into different steps.
 - STEP 6: Recommended Books.
 - STEP 7: Topics not to Miss.
 
-## Educational Qualification.
+## Educational Qualification
 
 - A degree in Information Technology/computer science or any related field.
 
 ## Technical and soft skill required
 
 - Networking Basics and internet (Must have)
-- Programming (Must have) 
+- Programming (Must have)
 - Linux (Must have)
 - Have the ability to work under pressure
 - Good communication skill
@@ -32,7 +32,7 @@ The roadmap is broken into different steps.
 - learnPython
 - Read security news/policies on hackerRank
 
-## Relevant Certification.
+## Relevant Certification
 
 - CISSP (Certified Information Systems Security Professional)
 - CEH (Certified Ethical Hacker)
@@ -61,23 +61,24 @@ The roadmap is broken into different steps.
 
 - Cybersecurity for Dummies, Brian Underdahl, Wiley, 2011
 
-  
-
 ## Topics Not To Miss
 
 ### Understanding Cryptography
+
 - **Mathematics You Need:** Finite Fields and Number Theory: Modular arithmetic, Euclidian Algorithm, Primality Testing: Fermats and Eulers theorem, Chinese Reminder theorem, Discrete Logarithms
 
 - **Symmetric key cryptographic techniques:** Introduction to Stream cipher, Block cipher: DES, AES,IDEA Asymmetric key cryptographic techniques: principles,RSA,ElGamal,Elliptic Curve Cryptography, Key distribution and Key exchange protocols.
 - **Integrity and Authentication:** Hash functions,Secure Hash Algorithm (SHA)Message Authentication, Message Authentica- tion Code (MAC), Digital Signature Algorithm : RSA ElGamal based
 
 ### Learning About Networks
+
 - **Introduction to Networking for Security :** Access Control and Site Security- Virtual Local Area Network (VLAN), Demilitarized zone (DMZ) ATTACKS, SERVICES MECHANISMS Attack Methods – TCP/IP Internetworking, Security problems in TCP/IP protocol suite, BGP security attacks, DNS Cache poisoning, Denial of Service (DoS) attacks, Distributed Denial of Service (DDoS) attacks, IP Trace back attacks.
 
 - **REAL-TIME COMMUNICATION SECURITY:**  Introduction to TCP/IP protocol stack -Implementation layers for security protocols and implications - IPsec: AH and ESP- IPsec: IKE- SSL/TLS- Distribution lists-Establishing keysPrivacy, Source Authentication, Message Integrity, Non-Repudiation, Proof of Submission, Proof of Delivery, Message Flow Confidentiality, Anonymity – Packet filters-Application level gateways.
 - **Network Defense:** Firewall, VPNs, Intrusion Detection and Prevention filters, Covert channels and counter measures in communication protocols, Techniques for shielding applications from an untrusted environment, Client and Server Security tools and applications
 
 ### Web Security
+
 - **Introduction:** Web Application Security - Core Defence Mechanisms - Handling User Access - Handling User Input- Handling Attackers - Managing the Application - The OWASP Top Ten List
 
 - **WEB APPLICATION TECHNOLOGIES:** Web Functionality Encoding Schemes Mapping the Application - Enumerating the Content and Functionality Analysing the Application Bypassing Client Side Controls : Transmitting Data Via the Client Capturing User Data Handling Client Side Data Securely - Input Validation, Blacklist Validation - Whitelist Validation - The Defence-in-Depth Approach - Attack Surface Reduction Rules of Thumb
@@ -89,8 +90,6 @@ The roadmap is broken into different steps.
 - **WEB APPLICATION VULNERABILITY**  Understanding Vulnerabilities in Traditional Client Server Application and Web Applications, Client State Manipulation, Cookie based Attacks, SQL Injection, Cross Domain Attack (XSS/ XSRF/ XSSI), HTTP Header Injection, SSL Vulnerabilities And Testing - Proper Encryption use in Web Application - Session Vulnerabilities and Testing - Cross-Site Request Forgery
 
 - **EXPLOITING SYSTEMS:** Path Traversal - Finding and Exploiting Path Traversal Vulnerability Preventing Path Traversal Vulnerability Information Disclosure - Exploiting Error Messages Securing Compiled Applications Buffer Overflow Vulnerability Integer Vulnerability Format String Vulnerability
-
-
 
 Cyber Security is an ever-learning Journey so you have to always stay updated.
 Read books and never stop learning.

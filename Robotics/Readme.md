@@ -1,16 +1,17 @@
-#Robotics Roadmap
+# Robotics Roadmap
 
 Roadmap has been splitted in to four parts:
+
 - Robots and Controllers
 - Embeded system
 - Robot Hardware
 - Localization and Navigation
 - AI Implementation
 
-
 ## Part 1 Embedded Systems
 
 ### Arduino
+
 - Arduino Hardware
 - Arduino Programming
 - Arduino Interfacing
@@ -19,6 +20,7 @@ Roadmap has been splitted in to four parts:
 -- ESP32
 
 ### Raspberry Pi
+
 - Raspberry Pi OS setup
 - Raspberry Pi Tools and Programming
 - Raspberry Pi Input/Output Lines
@@ -26,22 +28,26 @@ Roadmap has been splitted in to four parts:
 - Integration Development Environments
 
 ### Sensors and Interface
-- 
+
+-
 
 ### Actuators
+
 - DC Motors
 - H-Bridge
 - Pulse WIdth Modulation (PWM)
 - Stepper Motors
 - Servos
 
-### Control 
+### Control
+
 - On-Off control
 - PID Control
 - Derivative Control
 - Velocity control and Position Control
 
 ### Communications
+
 - Communications channels
 - File Transfer and Remote Access
 - Robot to Robot Communications
@@ -50,6 +56,7 @@ Roadmap has been splitted in to four parts:
 ## Part 2 Robot Hardware
 
 ### Driving Robot
+
 - Single wheeled Robot
 - Diffrential Drive
 - Tracked Robots
@@ -59,6 +66,7 @@ Roadmap has been splitted in to four parts:
 - Drive Kinematics
 
 ### Walking Robot
+
 - Balance Robots
 - Six Legged Robot
 - Biped Robot
@@ -71,7 +79,7 @@ Roadmap has been splitted in to four parts:
 - Unmanned Aerials Vehicles (UAVs)
 
 ### Robot Manipulators
- 
+
 - Homogenous Coordinates
 - Manipulators KInematics
 - Manipulators Simulations
@@ -81,12 +89,14 @@ Roadmap has been splitted in to four parts:
 ### Robot Software
 
 ## Localization and Navigation
+
 ## Maze Navigation
 
 - Maze Exploration Algorithm
 - Simulated v/s Real Maze Program
 
 ## Image Processing
+
 - Camera Interface
 - Edge Detection
 - Motion Detection
@@ -95,9 +105,9 @@ Roadmap has been splitted in to four parts:
 - Image Segmentation
 - Image Coordinate v/s World Coordinates
 
-##Automotive System
+## Automotive System
 
-- Computer Vision 
+- Computer Vision
 - OpenCV and KITTI
 - Robot Operating System (ROS)
 - Lane Detection
@@ -105,10 +115,10 @@ Roadmap has been splitted in to four parts:
 - Autonomous Parking
 - Vechicle Recognitation and Tracking
 
-
 ## Artificial Intelligence
 
 ### Neural Networks
+
 - Neural Networks Principles
 - Feed-Forward Propagation
 - Back Propagation
@@ -121,7 +131,6 @@ Roadmap has been splitted in to four parts:
 
 ### Deep Learning
 
-- Tensorflow 
+- Tensorflow
 - Traffic Sign Recognition
 - Autonomous Driving
-
