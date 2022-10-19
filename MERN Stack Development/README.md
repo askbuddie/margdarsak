@@ -1,4 +1,8 @@
-MERN stack denotes MongoDB, Express, React and Nodejs. Here, Nodejs and Express is used to build the backend, React is used to build the frontend and MongoDB is used as the database. MERN stack has become very popular as it is very easy and fast to build applications.
+# Roadmap to become a Mern Stack Developer
+
+[ **M** = "MongoDB", **E** = "ExpressJS", **R** = "React", **N** = "NodeJS"]
+
+Nodejs and Express is used to build the backend, React is used to build the frontend and MongoDB is used as the database. MERN stack has become very popular as it is very easy and fast to build applications.
 
 The roadmap can be broadly classified into 4 parts:
 
@@ -29,13 +33,13 @@ HTML, CSS and JavaScript are at the core of all websites.
 - HTML & CSS Basics:
   - https://www.freecodecamp.org/learn/responsive-web-design/
   - https://www.w3schools.com/html/default.asp
+- CSS Intermediate:
+  - https://www.w3schools.com/css/default.asp
+  - https://www.freecodecamp.org/learn/2022/responsive-web-design/
 - JavaScript Language:
   - https://www.javascript.com/
   - https://www.w3schools.com/js/default.asp
   - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-- CSS Intermediate:
-  - https://www.w3schools.com/css/default.asp
-  - https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 # Learn React
 
@@ -82,3 +86,5 @@ Most students get stuck in tutorial hell while learning development. Tutorial he
 - Blog Site
 - Workout Tracker App
 - Project Management Dashboard
+
+HAPPY LEARNING!
