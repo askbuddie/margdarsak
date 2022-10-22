@@ -1,5 +1,9 @@
 # Flutter Roadmap
 
+## 0. Choose IDE
+- [Andriod Studio](https://developer.android.com/studio/)
+- [Visual Studio Code](https://code.visualstudio.com/Download)
+
 ## 1. Learn Dart
 
 - [dart samples](https://dart.dev/samples)
@@ -55,7 +59,13 @@
 
 ## 8. Alternative of Baas, Learn Custom Backend
 
-- Nodejs with any db
-- Python with any db
-- Go with any db
-- Ruby with any db
+- [Nodejs](https://nodejs.org/en/) with any db
+- [Python](https://www.python.org/) with any db
+- [GO](https://go.dev/) with any db
+- [Ruby](https://www.ruby-lang.org/en/) with any db
+
+## 9. Databases
+
+ - [MySQL](https://www.mysql.com/)
+ - [PostgreSQL](https://www.postgresql.org/)
+ - [MongoDB](https://www.mongodb.com/)
