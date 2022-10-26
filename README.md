@@ -22,7 +22,7 @@
 - [ReactJs](/Web%20Development/Frontend%20Web%20Development/ReactJs/Readme.md)
 - [Backend Web Development](/Web%20Development/Backend%20Web%20Development/Readme.md)
 - [Cyber Security](/Cyber%20Security/Readme.md)
-- [Flutter](/App%20Development/Flutter/Readme.md)
+- [Mobile App Development](/App%20Development/Readme.md)
 - [Machine Learning](/Machine%20Learning/Readme.md)
 - [Frontend Web Development](/Web%20Development/Frontend%20Web%20Development/)
 - [Game Development](/Game%20Development/)
