@@ -27,16 +27,20 @@
 - [Frontend Web Development](/Web%20Development/Frontend%20Web%20Development/)
 - [Game Development](/Game%20Development/)
 - [MERNSTACK](/Web%20Development/Tech%20Stacks/MERNSTACK/Readme.md)
+- [Data Analyst](https://github.com/gaurav-shrestha/roadmap/blob/main/Data%20Analyst/README.md)
 - [Data Science](/Data%20Science/README.md)
 - [QA](/QA/README.md)
 - [Bug Bounty](/Bug%20Bounty/Readme.md)
 - [IOT](/IOT/Readme.md)
 - [DSA Roadmap in 90 days](/DSA-RoadMap-90-Days/README.md)
+- [DevOps](https://github.com/gaurav-shrestha/roadmap/blob/main/DevOps/Readme.md)
 - [Java](/Java/)
   - [Core Java](/Java/Core%20Java/Readme.md)
 - [SEO](/SEO/README.md)
 - [Django](/Web%20Development/Backend%20Web%20Development/Django/Readme.md)
+- [Flask](https://github.com/gaurav-shrestha/roadmap/blob/main/Flask/README.md)
 - [Bash Scripting](/Bash-Scripting/README.md)
+- [Competitive Programming](https://github.com/gaurav-shrestha/roadmap/blob/main/Competitive%20Programming/Readme.md)
 
 ## Contributing
 
