@@ -18,6 +18,8 @@
 
 ## Table of Contents
 
+- [C](/C%20Programming/README.md)
+- [CPP](/C_Cpp/Readme.md)
 - [Javascript](/Web%20Development/Javascript/Readme.md)
 - [ReactJs](/Web%20Development/Frontend%20Web%20Development/ReactJs/Readme.md)
 - [Backend Web Development](/Web%20Development/Backend%20Web%20Development/Readme.md)
