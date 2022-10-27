@@ -1,18 +1,17 @@
-## Getting Started
+## Object Oriented Programming
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Object oriented programming is the way of organizing the codes / program in an organised manner using the concept of class and objects.
+It has basically two components.
+- Class
+- Object
 
-## Folder Structure
+**class** is like the template for an object. It is also known as the blue print of an object. 
+**Object** is the instance of the class.
 
-The workspace contains two folders by default, where:
+There are varous properties of OOPS.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Encapsulation
+2. Abstraction
+3. Polymorphism
+4. Interfaces 
+5. Inheritances.
