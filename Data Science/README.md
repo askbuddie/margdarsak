@@ -80,3 +80,10 @@ flowchart LR
 - [SQL](https://www.w3schools.com/sql/)
 - [MongoDB](https://www.geeksforgeeks.org/mongodb-tutorial/)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
+
+A good command in a linux, git github , docker and kubernetes is also a plus point.
+some tips:
+- Make your statistics strong.
+- Be good at programming. Use python(recommendation)
+- Register yourself in kaggle.
+- Read online blogs on toward data science or medium.
