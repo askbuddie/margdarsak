@@ -43,6 +43,9 @@
 - [Flask](https://github.com/gaurav-shrestha/roadmap/blob/main/Flask/README.md)
 - [Bash Scripting](/Bash-Scripting/README.md)
 - [Competitive Programming](https://github.com/gaurav-shrestha/roadmap/blob/main/Competitive%20Programming/Readme.md)
+- [Affiliate Marketing](https://github.com/askbuddie/roadmap/tree/main/Affiliate%20Marketing)
+- [UI/UX](https://github.com/askbuddie/roadmap/tree/main/UI_UX)
+
 
 ## Contributing
 
