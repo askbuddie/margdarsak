@@ -1,0 +1,21 @@
+class Solution{
+  public:
+    void binSort(int A[], int n)
+    {
+       int s = 0 , e = n - 1;
+       
+       while(s <= e){
+           if(A[s] == 1 && A[e] == 0){
+               swap(A[s] , A[e]);
+           }
+           else if(A[s] == 0){
+               s++;
+           }
+           else{
+               e--;
+           }
+       }
+       
+    }
+ 
+};
