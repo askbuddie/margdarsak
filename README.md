@@ -57,7 +57,7 @@ Please, try to include the learning resources in the roadmap for the beginners.
 3. Create a pull request
 4. Wait for review
 
-## Contributors
+## Contributors | Thanks 
 
 <a href="https://github.com/askbuddie/roadmap/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=askbuddie/roadmap" />
